@@ -27,9 +27,19 @@ Demonstrações de arquitetura e engenharia — o mesmo problema resolvido com q
 
 Arquitetura de sistemas · IA aplicada a produtos · APIs e integração · automação de processos · análise e modelagem de negócios digitais · sistemas de apoio à decisão · .NET · Java · Python
 
-## Escrita
+## Referências
 
-- [Que não faltem calculadoras](https://www.baguete.com.br/noticias/que-nao-faltem-calculadoras) — Baguete, sobre IA, memória e reflexão
+Artigos e colunas com URL pública. A série longa está no [LinkedIn — artigos](https://www.linkedin.com/in/liandro-bulegon-7499b034/recent-activity/articles/).
+
+**Baguete**
+
+1. Bulegon, L. (2026, 25 fev.). *Que não faltem calculadoras*. Baguete. [URL](https://www.baguete.com.br/noticias/que-nao-faltem-calculadoras)
+2. Bulegon, L. J. (2012, 1 out.). *A revolução dos Índices*. Colunas do Baguete. [URL](https://www.baguete.com.br/colunas/liandro-j-bulegon/01/10/2012/a-revolucao-dos-indices)
+3. Baguete. *Mexer com o poder é o desafio da agilidade* — nota sobre artigo de Liandro J. Bulegon (Aquasoft). [URL](https://www.baguete.com.br/noticias/mexer-com-o-poder-e-o-desafio-da-agilidade)
+
+**LinkedIn**
+
+Ensaios sobre IA aplicada, arquitetura de sistemas, comunicação e estratégia — [perfil / artigos](https://www.linkedin.com/in/liandro-bulegon-7499b034/recent-activity/articles/).
 
 ## Contato
 
