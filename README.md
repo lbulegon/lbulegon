@@ -20,6 +20,9 @@ Demonstrações de arquitetura e engenharia — o mesmo problema resolvido com q
 | --- | --- |
 | [lab-dotnet-domain](https://github.com/lbulegon/lab-dotnet-domain) | ASP.NET Core, EF Core, DNS/WHOIS e cache por TTL |
 | [lab-java-domain](https://github.com/lbulegon/lab-java-domain) | Spring Boot + JPA — equivalência de arquitetura .NET → Java |
+| [lab-node-domain](https://github.com/lbulegon/lab-node-domain) | Express + SQLite — equivalência de arquitetura .NET → Node.js |
+| [lab-python-domain](https://github.com/lbulegon/lab-python-domain) | FastAPI + SQLite — equivalência de arquitetura .NET → Python |
+| [lab-C-domain](https://github.com/lbulegon/lab-C-domain) | C11 + sockets — equivalência de arquitetura .NET → C |
 | [monoambiente](https://github.com/lbulegon/monoambiente) | Sistema web para operação jurídica |
 
 ## Foco
