@@ -29,17 +29,23 @@ Arquitetura de sistemas · IA aplicada a produtos · APIs e integração · auto
 
 ## Referências
 
-Artigos e colunas com URL pública. A série longa está no [LinkedIn — artigos](https://www.linkedin.com/in/liandro-bulegon-7499b034/recent-activity/articles/).
+**LinkedIn**
+
+1. Bulegon, L. (2026, 2 ago.). *Arqueologia Semântica: A Ciência de Escavar Significados*. LinkedIn.
+2. Bulegon, L. (2026, 29 jul.). *Vibe Thinking: o próximo passo da Inteligência Artificial?*. LinkedIn.
+3. Bulegon, L. (2026, 2 jul.). *A deriva do significante como objeto da Arqueologia Semântica*. LinkedIn.
+4. Bulegon, L. (2026, 6 jun.). *Por uma Arqueologia Semântica Estrutural*. LinkedIn.
+5. Bulegon, L. (2026, 5 jun.). *Por uma teoria da evolução dos sistemas de software*. LinkedIn.
+6. Bulegon, L. (2026, 5 jun.). *Governança Semântica: a disciplina que faltava na engenharia de software*. LinkedIn.
+7. Bulegon, L. (2026, 14 mai.). *Um olhar sobre a Arquitetura que se degrada mesmo quando tudo parece funciona bem*. LinkedIn.
+8. Bulegon, L. (2026, 4 mai.). *A IA é a versão nova de uma velha história*. LinkedIn.
+9. Bulegon, L. (2026, 29 jan.). *Do caos interno à empresa no mundo real*. LinkedIn.
 
 **Baguete**
 
-1. Bulegon, L. (2026, 25 fev.). *Que não faltem calculadoras*. Baguete. [URL](https://www.baguete.com.br/noticias/que-nao-faltem-calculadoras)
-2. Bulegon, L. J. (2012, 1 out.). *A revolução dos Índices*. Colunas do Baguete. [URL](https://www.baguete.com.br/colunas/liandro-j-bulegon/01/10/2012/a-revolucao-dos-indices)
-3. Baguete. *Mexer com o poder é o desafio da agilidade* — nota sobre artigo de Liandro J. Bulegon (Aquasoft). [URL](https://www.baguete.com.br/noticias/mexer-com-o-poder-e-o-desafio-da-agilidade)
-
-**LinkedIn**
-
-Ensaios sobre IA aplicada, arquitetura de sistemas, comunicação e estratégia — [perfil / artigos](https://www.linkedin.com/in/liandro-bulegon-7499b034/recent-activity/articles/).
+10. Bulegon, L. (2026, 25 fev.). *Que não faltem calculadoras*. Baguete.
+11. Bulegon, L. J. (2012, 1 out.). *A revolução dos Índices*. Colunas do Baguete.
+12. Bulegon, L. J. *Mexer com o poder é o desafio da agilidade*. Baguete.
 
 ## Contato
 
