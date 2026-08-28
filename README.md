@@ -20,7 +20,6 @@ Demonstrações de arquitetura e engenharia — o mesmo problema resolvido com q
 | --- | --- |
 | [lab-dotnet-domain](https://github.com/lbulegon/lab-dotnet-domain) | ASP.NET Core, EF Core, DNS/WHOIS e cache por TTL |
 | [lab-java-domain](https://github.com/lbulegon/lab-java-domain) | Spring Boot + JPA — equivalência de arquitetura .NET → Java |
-| [dev-challenge](https://github.com/lbulegon/dev-challenge) | Refinamento sênior: confiabilidade e manutenibilidade |
 | [monoambiente](https://github.com/lbulegon/monoambiente) | Sistema web para operação jurídica |
 
 ## Foco
